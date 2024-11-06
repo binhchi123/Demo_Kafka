@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A625AF-2959-44F4-B3F3-79D034AB5C77}|ConsumerService\\ConsumerService.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A625AF-2959-44F4-B3F3-79D034AB5C77}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A625AF-2959-44F4-B3F3-79D034AB5C77}|ConsumerService\\ConsumerService.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A625AF-2959-44F4-B3F3-79D034AB5C77}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A625AF-2959-44F4-B3F3-79D034AB5C77}|ConsumerService\\ConsumerService.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A1A625AF-2959-44F4-B3F3-79D034AB5C77}|ConsumerService\\ConsumerService.csproj|solutionrelative:consumerservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F80B8F67-527A-479F-A8E8-1CD4751C213A}|ConsumerShared\\ConsumerShared.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumershared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F80B8F67-527A-479F-A8E8-1CD4751C213A}|ConsumerShared\\ConsumerShared.csproj|solutionrelative:consumershared\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D058CC3B-EDC1-4DDA-886F-32D526A6E5EE}|ConsumerAPI\\ConsumerAPI.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D058CC3B-EDC1-4DDA-886F-32D526A6E5EE}|ConsumerAPI\\ConsumerAPI.csproj|solutionrelative:consumerapi\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D44AF8-F0F1-49B5-B641-F205ABFA9D96}|ConsumerDatabase\\ConsumerDatabase.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerdatabase\\entities\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D44AF8-F0F1-49B5-B641-F205ABFA9D96}|ConsumerDatabase\\ConsumerDatabase.csproj|solutionrelative:consumerdatabase\\entities\\employeereport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2D44AF8-F0F1-49B5-B641-F205ABFA9D96}|ConsumerDatabase\\ConsumerDatabase.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerdatabase\\employeereportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2D44AF8-F0F1-49B5-B641-F205ABFA9D96}|ConsumerDatabase\\ConsumerDatabase.csproj|solutionrelative:consumerdatabase\\employeereportdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D058CC3B-EDC1-4DDA-886F-32D526A6E5EE}|ConsumerAPI\\ConsumerAPI.csproj|d:\\asp .net core\\kafka\\kafka_employee\\consumer\\consumerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D058CC3B-EDC1-4DDA-886F-32D526A6E5EE}|ConsumerAPI\\ConsumerAPI.csproj|solutionrelative:consumerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerService\\Worker.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\Worker.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerService\\Worker.cs",
+              "RelativeToolTip": "ConsumerService\\Worker.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T08:00:00.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerService\\appsettings.json",
+              "RelativeDocumentMoniker": "ConsumerService\\appsettings.json",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerService\\appsettings.json",
+              "RelativeToolTip": "ConsumerService\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-01T07:42:11.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerService\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumerService\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerService\\Program.cs",
+              "RelativeToolTip": "ConsumerService\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T07:42:08.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerAPI\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "ConsumerAPI\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerAPI\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "ConsumerAPI\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:15:51.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmployeeReport.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerDatabase\\Entities\\EmployeeReport.cs",
+              "RelativeDocumentMoniker": "ConsumerDatabase\\Entities\\EmployeeReport.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerDatabase\\Entities\\EmployeeReport.cs",
+              "RelativeToolTip": "ConsumerDatabase\\Entities\\EmployeeReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:33:14.152Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeReportDbContext.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerDatabase\\EmployeeReportDbContext.cs",
+              "RelativeDocumentMoniker": "ConsumerDatabase\\EmployeeReportDbContext.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerDatabase\\EmployeeReportDbContext.cs",
+              "RelativeToolTip": "ConsumerDatabase\\EmployeeReportDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:32:52.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ConsumerAPI\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerAPI\\Program.cs",
+              "RelativeToolTip": "ConsumerAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T02:23:49.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerShared\\Employee.cs",
+              "RelativeDocumentMoniker": "ConsumerShared\\Employee.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee\\Consumer\\ConsumerShared\\Employee.cs",
+              "RelativeToolTip": "ConsumerShared\\Employee.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA9wBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:33:59.534Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

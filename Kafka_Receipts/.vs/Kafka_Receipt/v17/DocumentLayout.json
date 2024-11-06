@@ -1,0 +1,243 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\receiptapi\\application\\repository\\ireceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\repository\\ireceiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\kafkaconsumerworker\\service\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\service\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\receiptapi\\service\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\service\\receiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\kafkaconsumerworker\\repository\\receiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\repository\\receiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\receiptapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\receiptapi\\application\\service\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\application\\service\\ireceiptservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\receiptapi\\repository\\receiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\repository\\receiptrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\kafkaconsumerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\worker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\receiptapi\\controllers\\receiptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F2ED7A0-C711-4037-AA5A-4943685DC48E}|ReceiptAPI\\ReceiptAPI.csproj|solutionrelative:receiptapi\\controllers\\receiptscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\kafkaconsumerworker\\application\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\application\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\kafkaconsumerworker\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_receipt - copy\\kafkaconsumerworker\\service\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BA066A5-70B3-4763-94E8-0A4EAFC7D7A5}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\service\\ingredientservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReceiptService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Service\\ReceiptService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Service\\ReceiptService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Service\\ReceiptService.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Service\\ReceiptService.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAYwDsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:34:35.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReceiptRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Repository\\ReceiptRepository.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Repository\\ReceiptRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Repository\\ReceiptRepository.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Repository\\ReceiptRepository.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAqwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:32:44.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IReceiptService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Service\\IReceiptService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:15:20.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IReceiptRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Application\\Repository\\IReceiptRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T03:09:24.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ReceiptService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Service\\ReceiptService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Service\\ReceiptService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Service\\ReceiptService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Service\\ReceiptService.cs",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAAswKwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:06:52.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Service\\CategoryService.cs",
+              "RelativeToolTip": "ReceiptAPI\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAswE8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T01:39:10.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReceiptRepository.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "RelativeToolTip": "ReceiptAPI\\Repository\\ReceiptRepository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAowCcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:26:04.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReceiptsController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "RelativeDocumentMoniker": "ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "RelativeToolTip": "ReceiptAPI\\Controllers\\ReceiptsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowAYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T02:50:00.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Service\\CategoryService.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Service\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:28:31.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Worker.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Worker.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Worker.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Worker.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Worker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:03:38.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IngredientService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Service\\IngredientService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Service\\IngredientService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Service\\IngredientService.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Service\\IngredientService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:29:15.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Application\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Application\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Receipt - Copy\\KafkaConsumerWorker\\Application\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Application\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-05T08:28:24.57Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1268,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
