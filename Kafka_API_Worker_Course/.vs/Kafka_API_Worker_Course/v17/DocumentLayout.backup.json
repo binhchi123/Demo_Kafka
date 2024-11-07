@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\courseapi\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\service\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\courseapi\\service\\coursedayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\service\\coursedayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\courseapi\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\service\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\courseapi\\controllers\\coursedayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\controllers\\coursedayscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\courseapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\courseapi\\requests\\insertcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6C2E50E-3541-401C-A966-7507BB18C746}|CourseAPI\\CourseAPI.csproj|solutionrelative:courseapi\\requests\\insertcourserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF359275-1A5C-4908-803A-0384FCCAB754}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\kafkaconsumerworker\\infrastructure\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF359275-1A5C-4908-803A-0384FCCAB754}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\infrastructure\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF359275-1A5C-4908-803A-0384FCCAB754}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\kafkaconsumerworker\\infrastructure\\models\\courseday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF359275-1A5C-4908-803A-0384FCCAB754}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\infrastructure\\models\\courseday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF359275-1A5C-4908-803A-0384FCCAB754}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|d:\\asp .net core\\kafka\\kafka_api_worker_course\\kafkaconsumerworker\\infrastructure\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF359275-1A5C-4908-803A-0384FCCAB754}|KafkaConsumerWorker\\KafkaConsumerWorker.csproj|solutionrelative:kafkaconsumerworker\\infrastructure\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1003,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Service\\StudentService.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Service\\StudentService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Service\\StudentService.cs",
+              "RelativeToolTip": "CourseAPI\\Service\\StudentService.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowEgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:17:58.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Service\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Service\\CourseService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Service\\CourseService.cs",
+              "RelativeToolTip": "CourseAPI\\Service\\CourseService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:17:43.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseDayService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Service\\CourseDayService.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Service\\CourseDayService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Service\\CourseDayService.cs",
+              "RelativeToolTip": "CourseAPI\\Service\\CourseDayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:27:59.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "CourseAPI\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:17:02.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CourseDaysController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Controllers\\CourseDaysController.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Controllers\\CourseDaysController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Controllers\\CourseDaysController.cs",
+              "RelativeToolTip": "CourseAPI\\Controllers\\CourseDaysController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwDwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:43:13.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InsertCourseRequest.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Requests\\InsertCourseRequest.cs",
+              "RelativeDocumentMoniker": "CourseAPI\\Requests\\InsertCourseRequest.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\CourseAPI\\Requests\\InsertCourseRequest.cs",
+              "RelativeToolTip": "CourseAPI\\Requests\\InsertCourseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T08:11:53.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CourseDay.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\KafkaConsumerWorker\\Infrastructure\\Models\\CourseDay.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Infrastructure\\Models\\CourseDay.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\KafkaConsumerWorker\\Infrastructure\\Models\\CourseDay.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Infrastructure\\Models\\CourseDay.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:51:28.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\KafkaConsumerWorker\\Infrastructure\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Infrastructure\\Models\\Course.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\KafkaConsumerWorker\\Infrastructure\\Models\\Course.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Infrastructure\\Models\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:42:06.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\KafkaConsumerWorker\\Infrastructure\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "KafkaConsumerWorker\\Infrastructure\\Models\\Student.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_API_Worker_Course\\KafkaConsumerWorker\\Infrastructure\\Models\\Student.cs",
+              "RelativeToolTip": "KafkaConsumerWorker\\Infrastructure\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T07:56:32.103Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 465,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
