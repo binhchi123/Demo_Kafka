@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "SUyR+HHghf+ukt6sXTpUX8glP+Q4CN2lhirPZFF+17E=",
+  "Source": "Kafka_Employee_API",
+  "BasePath": "_content/Kafka_Employee_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

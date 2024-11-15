@@ -1,0 +1,444 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\service\\employeepersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\service\\employeepersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\service\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\backgroundtasks\\employeeconsumingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\backgroundtasks\\employeeconsumingtask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\setting\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\setting\\appsetting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\globalusing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\extensions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\producer\\employeeproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\producer\\employeeproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\producer\\iemployeeproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\producer\\iemployeeproducer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\seedings\\employeememoryseedasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\seedings\\employeememoryseedasync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\iservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\iservice\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\iservice\\iemployeepersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\iservice\\iemployeepersistenceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\inmemorys\\employeememory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\inmemorys\\employeememory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\core\\database\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\core\\database\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\requests\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\requests\\updateemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\requests\\insertemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\requests\\insertemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\requests\\deleteemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\requests\\deleteemployeerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\extensions\\hostextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\extensions\\hostextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\extensions\\applicationbuilderextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|d:\\asp .net core\\kafka\\kafka_employee_consumingtask\\kafka_employee_api\\extensions\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{299A41C4-18E9-4FAE-A8A1-DBD791CF3954}|Kafka_Employee_API\\Kafka_Employee_API.csproj|solutionrelative:kafka_employee_api\\extensions\\appconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 563,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppSetting.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Setting\\AppSetting.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Setting\\AppSetting.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Setting\\AppSetting.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Setting\\AppSetting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:05:38.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeConsumingTask.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\BackgroundTasks\\EmployeeConsumingTask.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\BackgroundTasks\\EmployeeConsumingTask.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\BackgroundTasks\\EmployeeConsumingTask.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\BackgroundTasks\\EmployeeConsumingTask.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T09:44:22.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDcAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:27.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Service\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Service\\EmployeeService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Service\\EmployeeService.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Service\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:21:07.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeePersistenceService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Service\\EmployeePersistenceService.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Service\\EmployeePersistenceService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Service\\EmployeePersistenceService.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Service\\EmployeePersistenceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:56.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\Models\\Employee.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\Models\\Employee.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:54.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\appsettings.json",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\appsettings.json",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\appsettings.json",
+              "RelativeToolTip": "Kafka_Employee_API\\appsettings.json",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T02:00:05.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GlobalUsing.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\GlobalUsing.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\GlobalUsing.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\GlobalUsing.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\GlobalUsing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:04:25.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Program.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Program.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Program.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAEAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T02:01:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeProducer.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Producer\\EmployeeProducer.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Producer\\EmployeeProducer.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Producer\\EmployeeProducer.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Producer\\EmployeeProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:15.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IEmployeeProducer.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Producer\\IEmployeeProducer.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Producer\\IEmployeeProducer.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Producer\\IEmployeeProducer.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Producer\\IEmployeeProducer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:46.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceCollectionExtensions.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\ServiceCollectionExtensions.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Extensions\\ServiceCollectionExtensions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAgAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:10.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeMemorySeedAsync.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\Seedings\\EmployeeMemorySeedAsync.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\Seedings\\EmployeeMemorySeedAsync.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\Seedings\\EmployeeMemorySeedAsync.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\Seedings\\EmployeeMemorySeedAsync.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:58.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\IService\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\IService\\IEmployeeService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\IService\\IEmployeeService.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\IService\\IEmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:51.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IEmployeePersistenceService.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\IService\\IEmployeePersistenceService.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\IService\\IEmployeePersistenceService.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\IService\\IEmployeePersistenceService.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\IService\\IEmployeePersistenceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:50.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeMemory.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\InMemorys\\EmployeeMemory.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\InMemorys\\EmployeeMemory.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\InMemorys\\EmployeeMemory.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\InMemorys\\EmployeeMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:47.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UpdateEmployeeDTO.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\DTOs\\UpdateEmployeeDTO.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\DTOs\\UpdateEmployeeDTO.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\DTOs\\UpdateEmployeeDTO.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\DTOs\\UpdateEmployeeDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:44.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\Database\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Core\\Database\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Core\\Database\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Core\\Database\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:19:40.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "DeleteEmployeeRequest.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Requests\\DeleteEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Requests\\DeleteEmployeeRequest.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Requests\\DeleteEmployeeRequest.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Requests\\DeleteEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:51.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InsertEmployeeRequest.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Requests\\InsertEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Requests\\InsertEmployeeRequest.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Requests\\InsertEmployeeRequest.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Requests\\InsertEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:52.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UpdateEmployeeRequest.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Requests\\UpdateEmployeeRequest.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Requests\\UpdateEmployeeRequest.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Requests\\UpdateEmployeeRequest.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Requests\\UpdateEmployeeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:53.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HostExtension.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\HostExtension.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Extensions\\HostExtension.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\HostExtension.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Extensions\\HostExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:08.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ApplicationBuilderExtensions.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Extensions\\ApplicationBuilderExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:05.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AppConfiguration.cs",
+              "DocumentMoniker": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\AppConfiguration.cs",
+              "RelativeDocumentMoniker": "Kafka_Employee_API\\Extensions\\AppConfiguration.cs",
+              "ToolTip": "D:\\ASP .NET Core\\Kafka\\Kafka_Employee_ConsumingTask\\Kafka_Employee_API\\Extensions\\AppConfiguration.cs",
+              "RelativeToolTip": "Kafka_Employee_API\\Extensions\\AppConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:20:03.27Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 563,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
